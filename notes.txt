@@ -1,0 +1,56 @@
+Meeting Minutes
+
+-General ER Staff Read and Write
+-Delete info after leaving and being billed
+
+-Info Name
+-Address
+-Insurance
+-Prior Medical History
+-Time and Date
+-Discharge
+-Admitted label
+-Nights in Hospital
+-Charge per night
+-Insurance discounts for billing (Ask later)
+-Nurse can order labs and exams, xrays, bloodtests
+-Records for who performed labs and exams(ask later)
+-No records for who ordered what tests
+-Nurse can not diagnosis
+-Different diagnosis fields
+-Generate random test results
+-Commment area for nurses and also allows discharge instructions
+-Doctor can do all that nurses can do in addition to diagnos and prescriptions
+-Should be able to search for patients
+-5 diagnosis
+-Diagnosis manually entered
+-blood pressure
+-cholestrol
+-liver
+-kidney
+-Broken arm
+-Medication generic info and amounts
+-Doctor has ability to label for discharge
+-Assign doctors
+-Vitals taken
+-Database should be on a server
+-
+
+
+Finance
+-Charges per night
+-Nights stayed
+-Set fees
+-access to medication and tests given/performed
+-Discharge
+
+-Itemized bill
+-Format for bill up to us
+-Create credentials and give to "user"
+
+-Taking user to different screens
+
+Questions for Wednesday
+-References
+-Design of interfarce
+-Tell her about meeting time
