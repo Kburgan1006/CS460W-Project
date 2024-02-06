@@ -20,7 +20,7 @@ Meeting Minutes
 -Different diagnosis fields
 -Generate random test results
 -Commment area for nurses and also allows discharge instructions
--Doctor can do all that nurses can do in addition to diagnos and prescriptions
+-Doctor can do all that nurses can do in addition to diagnose and prescriptions
 -Should be able to search for patients
 -5 diagnosis
 -Diagnosis manually entered

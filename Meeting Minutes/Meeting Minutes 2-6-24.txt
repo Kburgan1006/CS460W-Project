@@ -1,0 +1,83 @@
+Meeting Minutes 2-6-24
+
+-Talked about Deliverable 2 and what that entails. 
+-Discussed use cases: actors, steps they take
+-Discussed use case guidelines.
+-Wrote down use cases.
+-Wrote down exceptions.
+-Discussed scenario.
+-Discussed next steps and tasks.
+
+Questions to ask:
+-Text or diagrams for use cases?
+
+
+-Actors: System, Nurse, Doctors, Financial staff, Receptionist,
+	(Patient?)
+
+
+Receptionist/ER Staff:
+
+Scenario: Patient shows up to be admitted, give patient bill & discharge.
+
+-Get all relevant data and info from patient
+-Enter information into system.
+-Request and give patient discharge papers and bill?
+
+Exceptions:
+-Patient name not found in system
+-Patient leaves.
+-Timeout
+-Incomplete forms/required info
+
+
+(Ask about Fiancial Staff)
+Financial Staff:
+
+Scenario: Discharge request for patient.
+
+-Requests bill
+-Checks/verifies it
+-Marks for discharge/ready for delivery
+
+Exceptions:
+-Patient name not found in system
+
+
+Nurse:
+
+Scenario: Taking vitals upon arrival, Identify issue with patient 
+and order corresponding labs/tests, Routine vitals and tests throughout
+duration of stay, Patient is ready discharged.
+
+-Enters vitals into system
+-Order labs/tests
+-Writes discharge instructions
+
+Exceptions:
+-Patient name not found in system
+-Duplicate patient names
+-Patient leaves
+-Timeout
+-Incomplete forms/required info
+
+
+Doctor:
+
+Scenario: Patient is ready for discharge, Lab results received and ready
+for analyze and diagnostics, Prescribes medication/treatment for diagnosis.
+
+-Enters vitals into system
+-Order labs/tests
+-Writes discharge instructions
+-Prescribe medications
+-Diagnose problems
+-Orders discharge
+
+Exceptions:
+-Putting in diagnose we don't allow?
+-Same for medication?
+-Same for tests/labs?
+-Patient leaves
+-Timeout
+-Incomplete forms/required info
