@@ -3,7 +3,7 @@ Recorder- Katie
 Team Lead- Will
 
 Meeting notes:
--Discussed what was done over night
+-Discussed what was done over night 
 -Asked questions about exceptions
 -Clarified Scenarios and use cases
 -Decided Scenarios
