@@ -10,9 +10,11 @@ Meeting notes:
 
 Next Steps:
 
-Will: Nurse vitals Scenario,
+Will: Nurse vitals Scenario, Nurse use cases, 
+and Patient info Reception use case
 
-Katie: Reception Scenario,
+Katie: Reception Scenario, Doctor specific use cases, 
+and discharge reception use case.
 
 
 Notes:
