@@ -1,0 +1,38 @@
+Meeting Minutes 2-7-24
+Recorder- Katie
+Team Lead- Will
+
+Meeting notes:
+-Discussed what was done over night
+-Asked questions about exceptions
+-Clarified Scenarios and use cases
+-Decided Scenarios
+
+Next Steps:
+
+Will: Nurse vitals Scenario,
+
+Katie: Reception Scenario,
+
+
+Notes:
+-Only 2 Scenarios (Reception & Nurse)
+-Use cases will be textual with one addtional diagram
+-Patient and Financial people are not actors.
+
+Reception Use Cases:
+-Enter Patient Info
+-Request Discharge Papers and Bill
+
+Nurse Use Cases:
+-Enters vitals into system
+-Order labs/tests
+-Enter discharge instructions
+
+Doctor Use Cases:
+-Enters vitals into system
+-Order labs/tests
+-Enter discharge instructions
+-Submit medication prescription
+-Submit diagnosis
+-Order discharge
