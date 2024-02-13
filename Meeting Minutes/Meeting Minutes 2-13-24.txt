@@ -1,0 +1,17 @@
+Meeting Minutes 2-13-24
+
+Reporting:
+
+Katie: Scenario done, started all use cases, almost completed 75%,
+fixed Deliverable.
+
+Will: Scenario done, finished all use cases.
+
+Dicussion and things left to do:
+-Exceptions
+-Diagram for enter patient info
+
+Action Items:
+Will- Diagram for patient info use case
+Katie- Finish up use cases and add exceptions
+
