@@ -2,6 +2,10 @@ Meeting Minutes 2-6-24
 Recorder- Katie
 Team Lead- Will
 
+Report:
+Will: Looked over deliverable two.
+Katie: Looked over dilverable two as well.
+
 -Talked about Deliverable 2 and what that entails. 
 -Discussed use cases: actors, steps they take
 -Discussed use case guidelines.
@@ -9,7 +13,9 @@ Team Lead- Will
 -Wrote down exceptions.
 -Discussed scenario.
 -Discussed next steps and tasks.
--Think of questions to ask and more scenarios.
+
+Action items
+Will and Katie: Think of questions to ask and more scenarios.
 
 Questions to ask:
 -Text or diagrams for use cases?

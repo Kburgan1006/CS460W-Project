@@ -2,13 +2,17 @@ Meeting Minutes 2-7-24
 Recorder- Katie
 Team Lead- Will
 
+Report:
+Will: Come up with some possible scenarios and use cases.
+Katie: Constructed files for deliverable two and came up with use cases and scenario ideas.
+
 Meeting notes:
 -Discussed what was done over night 
 -Asked questions about exceptions
 -Clarified Scenarios and use cases
 -Decided Scenarios
 
-Next Steps:
+Action Items:
 
 Will: Nurse vitals Scenario, Nurse use cases, 
 and Patient info Reception use case
