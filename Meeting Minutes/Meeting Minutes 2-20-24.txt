@@ -1,0 +1,29 @@
+Date: 2/20 Primary Facilitator: Katie
+Start: 3:30 P.M. Timekeeper: Will
+End: 4:10 P.M. Minute Taker: Will
+Room: Virtual
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Map out Deliverable 3 and think of any questions to be resolved in-class.
+
+2. Status [Allocated Time: 15 minutes]
+Both members handed in Deliverable 2 and read over Deliverable 3.
+
+3. Discussion items [Allocated Time: 35 minutes]
+Discussed structure of class/ object diagrams.
+Discussed structure of activity diagrams.
+Discussed how to handle forms, specifically as class isntance versus record.
+
+4. Wrap up [Allocated Time: 5 minutes]
+To do:
+Come up with lists of things which are instantiated classes versus helper class with no instances.
+Ex. Nurse versus GenerateBill class.
+Work on mock-up User Interface.
+
+Questions to ask
+How many activity diagrams for the group given that we have 2 members?
+How many need decision points?
+How specific each object/ class needs to be?
+How to handle medical tests.
+From example: are relationships new classes? is EmergencyReport a class instance or just an "idea"?
