@@ -23,7 +23,12 @@ Work on mock-up User Interface.
 
 Questions to ask
 How many activity diagrams for the group given that we have 2 members?
+2 each for a minimum of 4 from the group
 How many need decision points?
+1 each for a minimum of 2 from the group
 How specific each object/ class needs to be?
-How to handle medical tests.
+How to handle medical tests?
+ones in deliverable 1, same as diagoneses
+Medications are found by us (i.e. high blood pressure is given these medications, etc.)
 From example: are relationships new classes? is EmergencyReport a class instance or just an "idea"?
+only for inheritance relationships
