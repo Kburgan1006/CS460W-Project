@@ -1,0 +1,24 @@
+Date: 2/28 Primary Facilitator: Katie
+Start: 9:55 A.M. Timekeeper: Will
+End: 11:10 A.M. Minute Taker: Will
+Room: Dana 318
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss Delivarable 3 diagrams and begin work on deliverables.
+
+2. Status
+Rough sketch of class diagram completed.
+First drafts of class and object digrams begun.
+First activity diagram completed.
+
+3. Discussion items 
+Confirmed format of activity and class diagrams.
+Confirmed style and format for class and object diagrams.
+Discuss where to desribe the layout of the interface forms (decision: in UI prototype)
+
+4. Wrap up 
+To do: 
+Work on activity diagrams
+Finalize UI prototype
+Complete drafts of class and object diagrams, clean up styling.
