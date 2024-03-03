@@ -1,0 +1,21 @@
+Date: 2/20 Primary Facilitator: Katie
+Start: 3:30 P.M. Timekeeper: Will
+End: 3:50 P.M. Minute Taker: Will
+Room: Virtual
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Re-affirm discussion points from yesterday's class
+
+2. Status 
+Both members have full understanding of instructions for creation of diagrams.
+Katie has work done for prototype UI
+
+3. Discussion items 
+Discussed structure of class/ object diagrams.
+Discussed structure of activity diagrams.
+
+4. Wrap up [Allocated Time: 5 minutes]
+To do:
+Work on class/ object diagrams and activity diagram.
+
