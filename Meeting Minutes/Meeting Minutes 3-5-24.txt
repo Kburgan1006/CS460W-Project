@@ -1,0 +1,18 @@
+Date: 3/5 Primary Facilitator: Will
+Start: 9:55 A.M. Timekeeper: Katie
+End: 11:10 A.M. Minute Taker: Katie
+Room: Virtual
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss next steps for deliverable 4.
+
+2. Status
+Not working on anything as deliverable 3 was due yesterday.
+
+3. Discussion items 
+Database layout and coding work that needs to be done.
+
+4. Wrap up 
+To do: 
+Nothing as of right now besides thinking about code.
