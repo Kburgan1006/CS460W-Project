@@ -1,0 +1,27 @@
+Date: 3/19 Primary Facilitator: Will
+Start: 3:30 A.M. Timekeeper: Katie
+End: 3:51 A.M. Minute Taker: Katie
+Room: Virtual
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss next steps for deliverable 4.
+
+2. Status
+Will: Working on SQL
+Katie: Working on more GUI forms, declaring varibales, general setup.
+
+3. Discussion items 
+Database layout and coding work that needs to be done.
+
+Database:
+Foreign Key- Patient ID
+
+Patient Table: Name, DOB, etc.
+Testing Table: Labs, Tests.
+Login Table: Username, password, employee id.
+
+4. Wrap up 
+To do: 
+Will: Database and MYSQL
+Katie: More work on coding forms and other files.
