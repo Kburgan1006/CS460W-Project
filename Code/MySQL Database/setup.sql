@@ -2,10 +2,13 @@ DROP DATABASE IF EXISTS medical_database;
 
 CREATE DATABASE medical_database;
 
+DROP USER 'myuser'@'localhost' IDENTIFIED BY 'mypass';
+DROP USER 'remuser'@'%' IDENTIFIED BY 'rempass';
+
 CREATE USER 'myuser'@'localhost' IDENTIFIED BY 'mypass';
 CREATE USER 'remuser'@'%' IDENTIFIED BY 'rempass';
 
-GRANT ALL ON *.* TO 'myuser'@'localhost';e
+GRANT ALL ON *.* TO 'myuser'@'localhost';
 GRANT ALL ON *.* TO 'remuser'@'%';
 FLUSH PRIVILEGES;
 
