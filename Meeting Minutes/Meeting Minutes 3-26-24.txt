@@ -1,0 +1,21 @@
+Date: 3/19 Primary Facilitator: Will
+Start: 3:30 P.M. Timekeeper: Katie
+End: 4:00 P.M. Minute Taker: Katie
+Room: RM 318
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss next steps for deliverable 4 for things due the 19th.
+
+2. Status
+Will: Worked on Database and 10 page document.
+Katie: Prototype and 10 page document.
+
+3. Discussion items 
+Database layout and coding work. We also discussed 10 page document,
+furture deliverable plans, and tested remote database connection (it worked).
+
+4. Wrap up 
+To do: 
+Will: 10 page document.
+Katie: Minor adjusment to prototype and 10 page document.
