@@ -1,0 +1,22 @@
+Date: 4/2 Primary Facilitator: Will
+Start: 3:30 P.M. Timekeeper: Katie
+End: 4:15 P.M. Minute Taker: Katie
+Room: Virtual Teams Meeting
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss final steps for Deliverable 4, Deliverable 5
+
+2. Status
+Will is continuing to make changes to database to support application input.
+Katie is continuing to work on GUI and form inputs.
+
+3. Discussion items 
+Dicussed issue with remote connection to MySQL server.
+Dicussed new database tables and application-database connection.
+
+4. Wrap up
+Fixed MySQL connection error.
+TODO:
+Will: Connect system to database and transmitting data between the two, MySQL statements
+Katie: Finish GUI and input form code to accept MySQL queries as functions
