@@ -26,6 +26,8 @@ CREATE TABLE admission_table (
 CREATE TABLE patient_table (
     patient_fname CHAR(20) NOT NULL,
     patient_lname CHAR(20) NOT NULL,
+    patient_illness CHAR(40) NOT NULL,
+    patient_medication CHAR(40) NOT NULL,
     patient_id INT(5) NOT NULL,
 
     FOREIGN KEY (patient_id) REFERENCES admission_table(patient_id) ON DELETE CASCADE
@@ -37,4 +39,10 @@ CREATE TABLE testing_table (
     order_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
     FOREIGN KEY (patient_id) REFERENCES admission_table(patient_id) ON DELETE CASCADE
+);
+
+CREATE TABLE employee_table (
+    employee_id INT(5) NOT NULL,
+    employee_pass VARCHAR(20) NOT NULL,
+    employee_clearance INT(1) NOT NULL
 );
