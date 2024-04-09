@@ -20,7 +20,7 @@ CREATE TABLE patient_table (
     patient_address VARCHAR(80) NOT NULL,
     patient_phoneNum VARCHAR(15) NOT NULL,
     patient_email VARCHAR(40) NOT NULL,
-    patient_DOB TIMESTAMP NOT NULL,
+    patient_DOB DATE NOT NULL,
     patient_gender CHAR(20) NOT NULL,
     patient_occupation CHAR(25) NOT NULL,
     patient_medHist VARCHAR(8000) NOT NULL,
