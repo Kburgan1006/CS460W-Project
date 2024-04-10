@@ -30,9 +30,9 @@ CREATE TABLE patient_table (
     comment VARCHAR(8000) NOT NULL,
     patient_id INT(5) NOT NULL AUTO_INCREMENT,
     admit_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    discharge_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    patient_illness CHAR(40) NOT NULL,
-    patient_medication CHAR(40) NOT NULL,
+    discharge_time TIMESTAMP,
+    patient_illness CHAR(40),
+    patient_medication CHAR(40),
 
     PRIMARY KEY (patient_id)
 );
