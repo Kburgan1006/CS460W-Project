@@ -45,6 +45,15 @@ CREATE TABLE testing_table (
     FOREIGN KEY (patient_id) REFERENCES patient_table(patient_id) ON DELETE CASCADE
 );
 
+CREATE TABLE vitals_table (
+    patient_height INT(3) NOT NULL,
+    patient_weight INT(3) NOT NULL,
+    patient_rate INT(3) NOT NULL,
+    patient_pressure INT(3) NOT NULL,
+    
+    FOREIGN KEY (patient_id) REFERENCES patient_table(patient_id) ON DELETE CASCADE
+)
+
 CREATE TABLE employee_table (
     employee_id INT(5) NOT NULL,
     employee_pass VARCHAR(20) NOT NULL,
