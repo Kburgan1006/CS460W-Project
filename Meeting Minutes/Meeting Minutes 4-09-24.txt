@@ -1,0 +1,21 @@
+Date: 4/9 Primary Facilitator: Katie
+Start: 3:30 P.M. Timekeeper: Will
+End: 3:41 P.M. Minute Taker: Will
+Room: Virtual Teams Meeting
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss current status and any current issues.
+
+2. Status
+Katie is working on hiding/ disabling UI elements for specific user classes.
+Will has connected the program to the MySQL database.
+Overall group is on time for deliverable.
+
+3. Discussion items 
+Missing functionalities (generate bill, UI elements, database connectivity).
+
+4. Wrap up
+TODO:
+	Katie: Work on generateBill functionality and disabling of UI elements.
+	Will: Fix MySQL syntax errors and expand database connectivity to all forms.
