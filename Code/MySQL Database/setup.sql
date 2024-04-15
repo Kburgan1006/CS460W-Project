@@ -28,6 +28,7 @@ CREATE TABLE patient_table (
     ec_phone VARCHAR(15) NOT NULL,
     ec_relation CHAR(15) NOT NULL,
     comment VARCHAR(8000) NOT NULL,
+    discharge_comment VARCHAR(8000),
     patient_id INT(5) NOT NULL AUTO_INCREMENT,
     admit_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     ready_discharge INT(1) NOT NULL DEFAULT 0,
