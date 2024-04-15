@@ -30,6 +30,7 @@ CREATE TABLE patient_table (
     comment VARCHAR(8000) NOT NULL,
     patient_id INT(5) NOT NULL AUTO_INCREMENT,
     admit_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    ready_discharge INT(1) NOT NULL DEFAULT 0,
     discharge_time TIMESTAMP,
     patient_illness CHAR(40),
     patient_medication CHAR(40),
@@ -46,13 +47,14 @@ CREATE TABLE testing_table (
 );
 
 CREATE TABLE vitals_table (
+    patient_id INT(5) NOT NULL,
     patient_height INT(3) NOT NULL,
     patient_weight INT(3) NOT NULL,
     patient_rate INT(3) NOT NULL,
     patient_pressure INT(3) NOT NULL,
     
     FOREIGN KEY (patient_id) REFERENCES patient_table(patient_id) ON DELETE CASCADE
-)
+);
 
 CREATE TABLE employee_table (
     employee_id INT(5) NOT NULL,
