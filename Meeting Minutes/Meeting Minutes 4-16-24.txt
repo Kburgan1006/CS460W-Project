@@ -1,0 +1,20 @@
+Date: 4/16 Primary Facilitator: Katie
+Start: 3:30 P.M. Timekeeper: Will
+End: 3:40 P.M. Minute Taker: Will
+Room: Virtual Teams Meeting
+Website: https://github.com/Kburgan1006/CS460W-Project
+
+1. Objective
+Discuss status and plan testing
+
+2. Status
+Katie finished security levels and cancel/ submit buttons are working.
+Will setup SQL code for functions, made changes to SQL database to support functionality
+
+3. Discussion items
+Plan out work for the next week.
+
+4. Wrap up
+TODO: Testing functionality
+	Will: create test class to test SQL functionality, grab info from testing_table from database for bill calcs
+
