@@ -41,8 +41,11 @@ CREATE TABLE patient_table (
 
 CREATE TABLE testing_table (
     patient_id INT(5) NOT NULL,
-    result CHAR(60) NOT NULL,
-    order_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    test_one_count INT(1) NOT NULL DEFAULT 0,
+    test_two_count INT(1) NOT NULL DEFAULT 0,
+    test_three_count INT(1) NOT NULL DEFAULT 0,
+    test_four_count INT(1) NOT NULL DEFAUL 0,
+    test_five_count INT(1) NOT NULL DEFAULT 0,
 
     FOREIGN KEY (patient_id) REFERENCES patient_table(patient_id) ON DELETE CASCADE
 );
@@ -62,3 +65,7 @@ CREATE TABLE employee_table (
     employee_pass VARCHAR(20) NOT NULL,
     employee_clearance INT(1) NOT NULL
 );
+
+INSERT INTO employee_table (employee_id, employee_pass, employee_clearance) VALUES (1,'defy',0);
+INSERT INTO employee_table (employee_id, employee_pass, employee_clearance) VALUES (27,'help',1);
+INSERT INTO employee_table (employee_id, employee_pass, employee_clearance) VALUES (30,'lend',2);
