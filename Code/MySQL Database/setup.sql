@@ -63,9 +63,11 @@ CREATE TABLE employee_table (
     employee_clearance INT(1) NOT NULL
 );
 
+ALTER TABLE patient_table AUTO_INCREMENT=1001;
+
 INSERT INTO employee_table (employee_id, employee_pass, employee_clearance) VALUES (1,'defy',0);
 INSERT INTO employee_table (employee_id, employee_pass, employee_clearance) VALUES (27,'help',1);
 INSERT INTO employee_table (employee_id, employee_pass, employee_clearance) VALUES (30,'lend',2);
 
 INSERT INTO patient_table (patient_fname, patient_lname, patient_address, patient_phoneNum, patient_email, patient_DOB,patient_gender, patient_occupation, patient_medHist, ec_name, ec_phone, ec_relation, comment) 
-VALUES ('Abe','Lincoln','16 President Drive','123-456-7890','abel@whitehouse.gov','M','Lawyer','concussion','Grant','908-774-1231','Friend','For tests');
+VALUES ('Abe','Lincoln','16 President Drive','123-456-7890','abel@whitehouse.gov','1832-04-12','M','Lawyer','concussion','Grant','908-774-1231','Friend','For tests');
